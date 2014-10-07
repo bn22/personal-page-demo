@@ -47,4 +47,13 @@ footer {
 #about  img{
 	max-height: 400px;
 	float: left;
+	margin-right :1em;
+}
+
+#education {
+	clear: both;
+}
+
+#about {
+	overflow: auto;
 }
